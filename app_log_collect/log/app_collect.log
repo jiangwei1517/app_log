@@ -1,0 +1,90 @@
+2018/08/27 13:06:27.591 [D]  SendToKafakServer Partition = 0, Offset = 109 Value = 2018/08/23 18:04:36.383 [D]  init log success... Topic = log_normal
+2018/08/27 13:06:27.592 [D]  SendToKafakServer Partition = 0, Offset = 110 Value = 2018/08/23 18:28:47.163 [D]  init log success... Topic = log_normal
+2018/08/27 13:06:27.593 [D]  SendToKafakServer Partition = 0, Offset = 111 Value = 2018/08/23 18:28:47.163 [D]  init etcd success... Topic = log_normal
+2018/08/27 13:06:27.595 [D]  SendToKafakServer Partition = 0, Offset = 112 Value = 2018/08/23 18:28:47.175 [D]  init kafka server success... Topic = log_normal
+2018/08/27 13:06:27.596 [D]  SendToKafakServer Partition = 0, Offset = 113 Value = i am a chinese Topic = log_normal
+2018/08/27 13:06:27.598 [D]  SendToKafakServer Partition = 0, Offset = 114 Value = i am korea Topic = log_normal
+2018/08/27 13:06:27.599 [D]  SendToKafakServer Partition = 0, Offset = 115 Value = nihaoxiaoxuesheng Topic = log_normal
+2018/08/27 13:06:27.600 [D]  SendToKafakServer Partition = 0, Offset = 116 Value = bukekong Topic = log_normal
+2018/08/27 13:06:27.601 [D]  SendToKafakServer Partition = 0, Offset = 117 Value = heyibei Topic = log_normal
+2018/08/27 13:06:27.605 [D]  SendToKafakServer Partition = 0, Offset = 118 Value = dajiazuohaole Topic = log_normal
+2018/08/27 13:06:27.607 [D]  SendToKafakServer Partition = 0, Offset = 119 Value = wohenhao Topic = log_normal
+2018/08/27 13:06:27.609 [D]  SendToKafakServer Partition = 0, Offset = 120 Value = q Topic = log_normal
+2018/08/27 13:06:49.814 [D]  SendToKafakServer Partition = 0, Offset = 121 Value = wohenhao1 Topic = log_normal
+2018/08/27 13:07:03.480 [D]  SendToKafakServer Partition = 0, Offset = 97 Value = hendeme Topic = log_error
+2018/08/27 13:07:03.481 [D]  SendToKafakServer Partition = 0, Offset = 98 Value = rrr Topic = log_error
+2018/08/27 13:07:20.386 [D]  detect etcdlib has put key = /jiangwei18/app_log_manage/tail/172.24.6.87  value = [{"TailAddr":"log/normal.log","Topic":"log_normal"}]
+2018/08/27 13:07:44.441 [D]  SendToKafakServer Partition = 0, Offset = 122 Value = err Topic = log_normal
+2018/08/27 13:07:58.312 [D]  detect etcdlib has put key = /jiangwei18/app_log_manage/tail/172.24.6.87  value = [{"TailAddr":"log/normal.log","Topic":"log_normal"},{"TailAddr":"log/error.log","Topic":"log_error"}]
+2018/08/27 13:23:46.162 [D]  init log success...
+2018/08/27 13:23:46.167 [D]  init kafka server success...
+2018/08/27 13:23:46.167 [D]  init etcd success...
+2018/08/27 13:23:46.167 [D]  config.AppConfig.EtcdTailKey = /jiangwei18/app_log_manage/tail/172.24.6.87
+2018/08/27 13:23:46.170 [D]  put tailConfig to Etcd success...
+2018/08/27 13:23:46.185 [D]  get tailConfig from Etcd success...
+2018/08/27 13:23:46.195 [D]  SendToKafakServer Partition = 0, Offset = 123 Value = 2018/08/23 18:04:36.383 [D]  init log success... Topic = log_normal
+2018/08/27 13:23:46.198 [D]  SendToKafakServer Partition = 0, Offset = 99 Value = 2018/08/23 18:04:36.383 [D]  init log success... Topic = log_error
+2018/08/27 13:23:46.201 [D]  SendToKafakServer Partition = 0, Offset = 100 Value = 2018/08/23 18:28:47.163 [D]  init log success... Topic = log_error
+2018/08/27 13:23:46.203 [D]  SendToKafakServer Partition = 0, Offset = 101 Value = 2018/08/23 18:28:47.163 [D]  init etcd success... Topic = log_error
+2018/08/27 13:23:46.207 [D]  SendToKafakServer Partition = 0, Offset = 102 Value = 2018/08/23 18:28:47.175 [D]  init kafka server success... Topic = log_error
+2018/08/27 13:23:46.209 [D]  SendToKafakServer Partition = 0, Offset = 103 Value = 2018/08/23 18:28:47.175 [D]  init kafka server success... Topic = log_error
+2018/08/27 13:23:46.211 [D]  SendToKafakServer Partition = 0, Offset = 104 Value = jiangwei Topic = log_error
+2018/08/27 13:23:46.212 [D]  SendToKafakServer Partition = 0, Offset = 124 Value = 2018/08/23 18:28:47.163 [D]  init log success... Topic = log_normal
+2018/08/27 13:23:46.214 [D]  SendToKafakServer Partition = 0, Offset = 105 Value = nihao Topic = log_error
+2018/08/27 13:23:46.216 [D]  SendToKafakServer Partition = 0, Offset = 106 Value = woshishui Topic = log_error
+2018/08/27 13:23:46.218 [D]  SendToKafakServer Partition = 0, Offset = 107 Value = woshijingli Topic = log_error
+2018/08/27 13:23:46.219 [D]  SendToKafakServer Partition = 0, Offset = 108 Value = xiachuiniubi Topic = log_error
+2018/08/27 13:23:46.221 [D]  SendToKafakServer Partition = 0, Offset = 125 Value = 2018/08/23 18:28:47.163 [D]  init etcd success... Topic = log_normal
+2018/08/27 13:23:46.223 [D]  SendToKafakServer Partition = 0, Offset = 109 Value = nibuxing Topic = log_error
+2018/08/27 13:23:46.224 [D]  SendToKafakServer Partition = 0, Offset = 126 Value = 2018/08/23 18:28:47.175 [D]  init kafka server success... Topic = log_normal
+2018/08/27 13:23:46.226 [D]  SendToKafakServer Partition = 0, Offset = 110 Value = zhendeme Topic = log_error
+2018/08/27 13:23:46.228 [D]  SendToKafakServer Partition = 0, Offset = 127 Value = i am a chinese Topic = log_normal
+2018/08/27 13:23:46.229 [D]  SendToKafakServer Partition = 0, Offset = 128 Value = i am korea Topic = log_normal
+2018/08/27 13:23:46.230 [D]  SendToKafakServer Partition = 0, Offset = 111 Value = rrr Topic = log_error
+2018/08/27 13:23:46.231 [D]  SendToKafakServer Partition = 0, Offset = 112 Value = rtt Topic = log_error
+2018/08/27 13:23:46.233 [D]  SendToKafakServer Partition = 0, Offset = 129 Value = nihaoxiaoxuesheng Topic = log_normal
+2018/08/27 13:23:46.234 [D]  SendToKafakServer Partition = 0, Offset = 130 Value = bukekong Topic = log_normal
+2018/08/27 13:23:46.236 [D]  SendToKafakServer Partition = 0, Offset = 131 Value = heyibei Topic = log_normal
+2018/08/27 13:23:46.237 [D]  SendToKafakServer Partition = 0, Offset = 132 Value = dajiazuohaole Topic = log_normal
+2018/08/27 13:23:46.239 [D]  SendToKafakServer Partition = 0, Offset = 133 Value = wohenhao Topic = log_normal
+2018/08/27 13:23:46.242 [D]  SendToKafakServer Partition = 0, Offset = 134 Value = q Topic = log_normal
+2018/08/27 13:23:46.244 [D]  SendToKafakServer Partition = 0, Offset = 135 Value = wohenhao1 Topic = log_normal
+2018/08/27 13:23:46.246 [D]  SendToKafakServer Partition = 0, Offset = 136 Value = err Topic = log_normal
+2018/08/27 13:23:46.249 [D]  SendToKafakServer Partition = 0, Offset = 113 Value = yuyu Topic = log_error
+2018/08/27 13:24:15.983 [D]  detect etcdlib has put key = /jiangwei18/app_log_manage/tail/172.24.6.87  value = [{"TailAddr":"log/normal.log","Topic":"log_normal"}]
+2018/08/27 13:24:34.898 [D]  SendToKafakServer Partition = 0, Offset = 137 Value = tyty Topic = log_normal
+2018/08/27 13:24:47.177 [D]  detect etcdlib has put key = /jiangwei18/app_log_manage/tail/172.24.6.87  value = [{"TailAddr":"log/normal.log","Topic":"log_normal"},{"TailAddr":"log/error.log","Topic":"log_error"}]
+2018/08/27 13:24:47.181 [D]  SendToKafakServer Partition = 0, Offset = 138 Value = 2018/08/23 18:04:36.383 [D]  init log success... Topic = log_normal
+2018/08/27 13:24:47.185 [D]  SendToKafakServer Partition = 0, Offset = 114 Value = 2018/08/23 18:04:36.383 [D]  init log success... Topic = log_error
+2018/08/27 13:24:47.188 [D]  SendToKafakServer Partition = 0, Offset = 139 Value = 2018/08/23 18:28:47.163 [D]  init log success... Topic = log_normal
+2018/08/27 13:24:47.189 [D]  SendToKafakServer Partition = 0, Offset = 140 Value = 2018/08/23 18:28:47.163 [D]  init etcd success... Topic = log_normal
+2018/08/27 13:24:47.190 [D]  SendToKafakServer Partition = 0, Offset = 141 Value = 2018/08/23 18:28:47.175 [D]  init kafka server success... Topic = log_normal
+2018/08/27 13:24:47.192 [D]  SendToKafakServer Partition = 0, Offset = 142 Value = i am a chinese Topic = log_normal
+2018/08/27 13:24:47.194 [D]  SendToKafakServer Partition = 0, Offset = 143 Value = i am korea Topic = log_normal
+2018/08/27 13:24:47.197 [D]  SendToKafakServer Partition = 0, Offset = 144 Value = nihaoxiaoxuesheng Topic = log_normal
+2018/08/27 13:24:47.203 [D]  SendToKafakServer Partition = 0, Offset = 145 Value = bukekong Topic = log_normal
+2018/08/27 13:24:47.205 [D]  SendToKafakServer Partition = 0, Offset = 146 Value = heyibei Topic = log_normal
+2018/08/27 13:24:47.207 [D]  SendToKafakServer Partition = 0, Offset = 147 Value = dajiazuohaole Topic = log_normal
+2018/08/27 13:24:47.208 [D]  SendToKafakServer Partition = 0, Offset = 148 Value = wohenhao Topic = log_normal
+2018/08/27 13:24:47.210 [D]  SendToKafakServer Partition = 0, Offset = 149 Value = q Topic = log_normal
+2018/08/27 13:24:47.213 [D]  SendToKafakServer Partition = 0, Offset = 150 Value = wohenhao1 Topic = log_normal
+2018/08/27 13:24:47.215 [D]  SendToKafakServer Partition = 0, Offset = 151 Value = err Topic = log_normal
+2018/08/27 13:24:47.217 [D]  SendToKafakServer Partition = 0, Offset = 152 Value = tyty Topic = log_normal
+2018/08/27 13:24:47.218 [D]  SendToKafakServer Partition = 0, Offset = 115 Value = 2018/08/23 18:28:47.163 [D]  init log success... Topic = log_error
+2018/08/27 13:24:47.220 [D]  SendToKafakServer Partition = 0, Offset = 116 Value = 2018/08/23 18:28:47.163 [D]  init etcd success... Topic = log_error
+2018/08/27 13:24:47.222 [D]  SendToKafakServer Partition = 0, Offset = 117 Value = 2018/08/23 18:28:47.175 [D]  init kafka server success... Topic = log_error
+2018/08/27 13:24:47.224 [D]  SendToKafakServer Partition = 0, Offset = 118 Value = 2018/08/23 18:28:47.175 [D]  init kafka server success... Topic = log_error
+2018/08/27 13:24:47.226 [D]  SendToKafakServer Partition = 0, Offset = 119 Value = jiangwei Topic = log_error
+2018/08/27 13:24:47.228 [D]  SendToKafakServer Partition = 0, Offset = 120 Value = nihao Topic = log_error
+2018/08/27 13:24:47.234 [D]  SendToKafakServer Partition = 0, Offset = 121 Value = woshishui Topic = log_error
+2018/08/27 13:24:47.237 [D]  SendToKafakServer Partition = 0, Offset = 122 Value = woshijingli Topic = log_error
+2018/08/27 13:24:47.240 [D]  SendToKafakServer Partition = 0, Offset = 123 Value = xiachuiniubi Topic = log_error
+2018/08/27 13:24:47.242 [D]  SendToKafakServer Partition = 0, Offset = 124 Value = nibuxing Topic = log_error
+2018/08/27 13:24:47.244 [D]  SendToKafakServer Partition = 0, Offset = 125 Value = zhendeme Topic = log_error
+2018/08/27 13:24:47.247 [D]  SendToKafakServer Partition = 0, Offset = 126 Value = rrr Topic = log_error
+2018/08/27 13:24:47.250 [D]  SendToKafakServer Partition = 0, Offset = 127 Value = rtt Topic = log_error
+2018/08/27 13:24:47.252 [D]  SendToKafakServer Partition = 0, Offset = 128 Value = yuyu Topic = log_error
+2018/08/27 13:24:47.255 [D]  SendToKafakServer Partition = 0, Offset = 129 Value = tyty Topic = log_error
+2018/08/27 13:25:05.870 [D]  SendToKafakServer Partition = 0, Offset = 130 Value = rrrr Topic = log_error
+2018/08/27 13:25:15.701 [D]  SendToKafakServer Partition = 0, Offset = 153 Value = rqrq Topic = log_normal
+2018/08/27 13:25:15.784 [D]  SendToKafakServer Partition = 0, Offset = 154 Value = rqrq Topic = log_normal
