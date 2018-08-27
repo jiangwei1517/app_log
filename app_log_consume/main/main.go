@@ -1,10 +1,10 @@
 package main
 
 import(
-	"app_log_consume/config"
-	"app_log_consume/log"
-	"app_log_consume/kafkaconsumer"
-	"app_log_consume/es"
+	"app_log/app_log_consume/config"
+	"app_log/app_log_consume/log"
+	"app_log/app_log_consume/kafkaconsumer"
+	"app_log/app_log_consume/es"
 	"github.com/astaxie/beego/logs"
 	"fmt"
 )

@@ -9,8 +9,8 @@ import(
 	etcd_client "github.com/coreos/etcd/clientv3"
 	"time"
 	"github.com/astaxie/beego"
-	_ "app_log_beego_config/router"
-	"app_log_beego_config/model"
+	_ "app_log/app_log_beego_config/router"
+	"app_log/app_log_beego_config/model"
 )
 
 var logsConfig map[string]interface{} = make(map[string]interface{})

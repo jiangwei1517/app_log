@@ -2,7 +2,7 @@ package LogController
 
 import(
 	"github.com/astaxie/beego"
-	"app_log_beego_config/model"
+	"app_log/app_log_beego_config/model"
 	"github.com/astaxie/beego/logs"
 )
 

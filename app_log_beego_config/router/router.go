@@ -2,8 +2,8 @@ package router
 
 import(
 	"github.com/astaxie/beego"
-	"app_log_beego_config/controller/AppController"
-	"app_log_beego_config/controller/LogController"
+	"app_log/app_log_beego_config/controller/AppController"
+	"app_log/app_log_beego_config/controller/LogController"
 )
 
 func init()  {

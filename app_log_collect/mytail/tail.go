@@ -1,14 +1,14 @@
 package mytail
 
 import(
-	"app_log_collect/config"
+	"app_log/app_log_collect/config"
 	"github.com/astaxie/beego/logs"
 	"fmt"
 	"github.com/hpcloud/tail"
 	"sync"
-	"app_log_collect/kafkaserver"
+	"app_log/app_log_collect/kafkaserver"
 	"encoding/json"
-	"app_log_collect/others"
+	"app_log/app_log_collect/others"
 )
 
 type TailObj struct{

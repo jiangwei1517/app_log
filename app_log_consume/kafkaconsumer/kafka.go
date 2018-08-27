@@ -4,7 +4,7 @@ import(
 	"github.com/Shopify/sarama"
 	"github.com/astaxie/beego/logs"
 	"sync"
-	"app_log_consume/es"
+	"app_log/app_log_consume/es"
 	"sync/atomic"
 	"fmt"
 )

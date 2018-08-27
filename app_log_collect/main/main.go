@@ -1,14 +1,14 @@
 package main
 
 import(
-	"app_log_collect/config"
-	"app_log_collect/log"
-	"app_log_collect/others"
+	"app_log/app_log_collect/config"
+	"app_log/app_log_collect/log"
+	"app_log/app_log_collect/others"
 	"fmt"
 	"github.com/astaxie/beego/logs"
-	"app_log_collect/etcd"
-	"app_log_collect/kafkaserver"
-	"app_log_collect/mytail"
+	"app_log/app_log_collect/etcd"
+	"app_log/app_log_collect/kafkaserver"
+	"app_log/app_log_collect/mytail"
 )
 
 func main()  {

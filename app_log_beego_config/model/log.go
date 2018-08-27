@@ -11,7 +11,7 @@ import(
 	"context"
 	"time"
 	"encoding/json"
-	"app_log_collect/config"
+	"app_log/app_log_collect/config"
 )
 
 var etcdCli *etcd_client.Client

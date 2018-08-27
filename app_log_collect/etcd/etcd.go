@@ -2,14 +2,14 @@ package etcd
 
 import(
 	etcd_client "github.com/coreos/etcd/clientv3"
-	"app_log_collect/others"
+	"app_log/app_log_collect/others"
 	"github.com/astaxie/beego/logs"
-	"app_log_collect/config"
+	"app_log/app_log_collect/config"
 	"context"
 	"encoding/json"
 	"time"
 	"github.com/coreos/etcd/mvcc/mvccpb"
-	"app_log_collect/mytail"
+	"app_log/app_log_collect/mytail"
 )
 
 var EtcdClient *etcd_client.Client
